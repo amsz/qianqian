@@ -1,7 +1,7 @@
 title: 谦谦成长记
 subtitle: 我要让全世界都知道我很低调
 description:
-author: s & y
+author:
 email:
 language: zh-CN
 
@@ -68,9 +68,6 @@ disqus_shortname:
 ## Themes: https://github.com/tommy351/hexo/wiki/Themes
 theme: modernist
 exclude_generator:
-
-fancybox: true
-excerpt_link: 更多...
 
 # Deployment
 ## Docs: http://zespia.tw/hexo/docs/deploy.html
